@@ -7,8 +7,8 @@ import (
 	"log"
 	"errors"
 	"strconv"
-	"b00lduck/raspberry-datalogger-serial/parser"
-	"b00lduck/raspberry-datalogger-serial/sensor"
+	"github.com/b00lduck/raspberry-datalogger-serial/parser"
+	"github.com/b00lduck/raspberry-datalogger-serial/sensor"
 )
 
 func main() {
